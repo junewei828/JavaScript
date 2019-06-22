@@ -1,0 +1,4 @@
+changes words starting with 'W' or 'w' in a sentence into '[DETACTED]' and then return the sentence.
+
+for example, "What is the plan for tomorrow"
+"show me the way"

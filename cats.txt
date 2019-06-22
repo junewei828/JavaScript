@@ -1,0 +1,26 @@
+#
+# Complete the 'how_many_cats' function below.
+#
+# The function is expected to return an INTEGER.
+# The function accepts STRING sentence as parameter.
+#
+
+def how_many_cats(sentence)
+    # Write your code here
+    i = 0
+    num = 0
+    while i < sentence.length
+        if (sentence[i] == 'c' || sentence[i] == 'C') && ((sentence[i+1] == "a") || (sentence[i+2] == "t") || sentence[i+ 3] =='s')
+        num += 1
+            return num
+        end
+            i += 1
+    end
+	return num
+end
+
+
+=========================================================================================================
+
+in a sentence, return the number of all 'cats' in different combination, such as 'CATs', 'cAts', 'cats', etc.
+

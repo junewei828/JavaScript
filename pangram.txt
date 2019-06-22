@@ -1,0 +1,1 @@
+give a string, if this string includes all charactors from "a" to "z", return 1, if not, return 0.

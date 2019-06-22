@@ -1,0 +1,28 @@
+Tell me about yourself.
+
+My name is June. I'm a QA engineer. I'm currently working at outward inc in San Jose, which is a 3D technology company. 
+I have 3 years of QA experience. In 2016, I joined a QA bootcamp called portnov computer school in los Gatos, I learned 
+basic QA mathodologies and automation skills. After that, I worked as a contracting QA engineer at Blackberry. Then I 
+found my current full-time job. I've been working in current company since last July. I think bootcamp is an efficient 
+way to learn a skill. I like bootcamp, because it teaches the necessary skills for a job in a very short time.
+
+Why do you want to become a software engineer?
+I work together with software engineers in my daily work. I admire software engineers a lot. I think they're smart and 
+very cool because they can solve a lot of problems. Also I feel that not having sufficient knowledge about coding blocks
+my way to do many stuff that I like. So I want to learn coding and become a software engineer. 
+
+
+why app academy?
+
+1. I like the curriculum in app academy; Ruby and Javascript are two popular programming languages and are easier
+to learn for a beginner; and it teaches the tools that are widely used in industry; 2. App academy is a merit-based 
+program, students only pay tuition after they get a job, that means both app academy and the students will try the 
+best to get the most desirable skills in the job market; and app academy will provide better support to the students
+than those bootcamps require upfront tuition; 3. App academy has a highly selective admission process, which makes 
+sure the quality of students; so students can learn from each other and help each other.  
+
+
+
+
+Web/mobile app development was a field that had always interested me.
+

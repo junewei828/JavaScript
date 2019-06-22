@@ -1,0 +1,4 @@
+give a DNA name, e.g. 'CAGGTTT',
+first change all 'G' into 'C'
+then change all 'T' into 'A'
+return the final string

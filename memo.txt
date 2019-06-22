@@ -1,0 +1,25 @@
+practice Assessment 5:
+symmtery: why it is not correct if I iterate backward and then compare the new array with the original array?
+or iterate the first half and compare it with the second half (iterate backward)?
+
+Unit 3 review:
+longestBigram: why my solution fails one test case?? 'One must'
+
+
+Array.isArray() => to check if some data is array;
+Object.Keys(obj).length => to check the number of keys
+
+array.shift();
+return array; (remove the first element)
+
+console.log(typeOf 7);  = > "number"
+console.log(typeOf 'blubber'); => "string"
+console.log(typleOf true); => "boolean"
+console.log(typeof declaredButUndefinedVariable); => "undefined"
+
+
+
+
+
+
+ 
